@@ -1,0 +1,59 @@
+h1 {
+    background: thistle;
+    padding: 5px;
+    text-align: center;
+    font: lighter;
+}
+.lorem {
+    background: green;
+    border: dashed;
+    margin: 30px;
+    padding: 15px 10px 20px 10px;
+    height: 220px;
+    width: 350px;
+}
+
+.img1 {
+    float: left;
+    margin: 15px;
+    width: 250px;
+}
+
+.img2 {
+    float: right;
+    margin: 15px;
+    width: 200px;
+}
+
+.lorem2 {
+    text-align: justify;
+}
+
+.level {
+    font-style: normal;
+    font-size: 1.5em;
+    margin: 10px 10px 0px 5px;
+    color: coral;
+}
+
+.addition li {
+    border: solid 1px blue;
+    height: 40px;
+    width: 150px;
+    text-align: left;
+    padding: 5px 5px;
+    margin: 3px 0px;
+}
+
+.addition li a {
+    text-decoration: none;
+}
+
+.addition li:nth-child(1) {
+    font-weight: bold;
+}
+
+.addition ul {
+    list-style-type: none;
+    padding-inline-start: 5px;
+}
